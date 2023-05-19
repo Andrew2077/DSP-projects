@@ -10,8 +10,8 @@
 
 
 Demo: [Repo](https://github.com/Andrew2077/Signal-Viewer)
-![Demo](misc\Task1\1.PNG)
-![Demo](misc\Task1\2.PNG)
+![Demo](misc/Task1/1.PNG)
+![Demo](misc/Task1/2.PNG)
 
 #### Task 2: Curve Reconstruction
 - Curve fitting
@@ -22,7 +22,7 @@ Demo: [Repo](https://github.com/Andrew2077/Signal-Viewer)
   - threading
 
 Demo: [Repo](https://github.com/Andrew2077/Curve-Fitting-Interpolation)
-![Demo](misc\Task2\screenshot.jpeg)
+![Demo](misc/Task2/screenshot.jpeg)
 
 #### Task 3: Digital Filter 
 - Filter design
@@ -32,6 +32,6 @@ Demo: [Repo](https://github.com/Andrew2077/Curve-Fitting-Interpolation)
   - Scipy
 
 Demo: [Repo](https://github.com/Andrew2077/Digital-Filter-Design)
-![](misc\Task3\1.PNG)
-![](misc\Task3\2.PNG)
+![](misc/Task3/1.PNG)
+![](misc/Task3/2.PNG)
 
