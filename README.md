@@ -7,8 +7,8 @@
 - QT GUI
 
 Demo: [Link]()
-![Demo](Signal-Viewer\images\1.PNG)
-![Demo](Signal-Viewer\images\2.PNG)
+![Demo](https://github.com/Andrew2077/Signal-Viewer/blob/main/images/1.PNG)
+![Demo](https://github.com/Andrew2077/Signal-Viewer/blob/main/images/2.PNG)
 
 #### Task 2: Curve Reconstruction
 - Curve fitting
